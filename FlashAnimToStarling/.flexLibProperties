@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="FTSAnimEvent"/>
+    <classEntry path="FTSAnimationInfo"/>
+    <classEntry path="FTSCharacter"/>
+    <classEntry path="FTSCharacterDelegate"/>
+    <classEntry path="FTSSprite"/>
+    <classEntry path="FTSFrameInfo"/>
+    <classEntry path="FTSEventInfo"/>
+    <classEntry path="FTSParser"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
