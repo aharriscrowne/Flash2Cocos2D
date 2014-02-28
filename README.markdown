@@ -2,7 +2,7 @@ FlashToStarling
 ===============
 
 
-This tool provides a fast way of reusing animations made in Flash CS in Starling projects.
+FlashToStarling ports the awesome Flash2Cocos2D project for use in Flash-based Starling projects.
 A minimally tweaked version of the amazing exporter by [Grapefrukt](https://github.com/grapefrukt/grapefrukt-export) provides a way to export all the animation information (position, rotation, scale) of a Flash made character to xml.
 The FlashToCocos iOS library reads those xml files and recreates the characters in Cocos2D.
 
